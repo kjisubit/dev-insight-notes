@@ -2,7 +2,7 @@
 
 - [가상 네트워크](https://apple-sushi-c42.notion.site/145cef5d64dd80c781e5c54c8fdf7816?pvs=74)
 - [딥링크, 앱링크, 다이나믹 링크](https://apple-sushi-c42.notion.site/149cef5d64dd802fb94bee419bc3e1ce?pvs=74)
-- [모바일 앱 컴파일 기법](https://apple-sushi-c42.notion.site/14acef5d64dd8086b597c3304d0c40f3)
+- [모바일 앱 컴파일 기법](https://apple-sushi-c42.notion.site/14acef5d64dd8086b597c3304d0c40f3?pvs=74)
 - [문자 인코딩](https://apple-sushi-c42.notion.site/149cef5d64dd800187b9f9d738c67ff3?pvs=74)
 - [비트맵 vs 벡터](https://apple-sushi-c42.notion.site/vs-146cef5d64dd8077b041f033e3378eeb?pvs=74)
 - [암호키와 전자서명](https://apple-sushi-c42.notion.site/146cef5d64dd80b78654ecb03779485e?pvs=4)
