@@ -1,5 +1,9 @@
 # 개발 지식 아카이브
 
+- [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102?pvs=74)
+- [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee?pvs=4)
+- [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb?pvs=4)
+- [URI, URL, URN](https://apple-sushi-c42.notion.site/URI-URL-URN-146cef5d64dd80f3a4fdd922a9795f9a?pvs=4)
 - [가상 네트워크](https://apple-sushi-c42.notion.site/145cef5d64dd80c781e5c54c8fdf7816?pvs=74)
 - [딥링크, 앱링크, 다이나믹 링크](https://apple-sushi-c42.notion.site/149cef5d64dd802fb94bee419bc3e1ce?pvs=74)
 - [모바일 앱 컴파일 기법](https://apple-sushi-c42.notion.site/14acef5d64dd8086b597c3304d0c40f3?pvs=74)
@@ -9,8 +13,4 @@
 - [채널과 대역폭](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
 - [컨벤션](https://apple-sushi-c42.notion.site/146cef5d64dd80f99d54ddb733b58ef7?pvs=4)
 - [픽셀 단위 & 표기](https://apple-sushi-c42.notion.site/14ecef5d64dd806f9a14c5f78b5f1e2a)
-- [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102?pvs=74)
-- [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee?pvs=4)
-- [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb?pvs=4)
-- [URI, URL, URN](https://apple-sushi-c42.notion.site/URI-URL-URN-146cef5d64dd80f3a4fdd922a9795f9a?pvs=4)
 
