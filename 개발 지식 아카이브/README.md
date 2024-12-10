@@ -13,6 +13,6 @@
 - [암호키와 전자서명](https://apple-sushi-c42.notion.site/146cef5d64dd80b78654ecb03779485e?pvs=4)
 - [채널과 대역폭](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
 - [컨벤션](https://apple-sushi-c42.notion.site/146cef5d64dd80f99d54ddb733b58ef7?pvs=4)
-- [프로토콜](https://apple-sushi-c42.notion.site/157cef5d64dd808da589cb2683c7a14a)
+
 - [픽셀 단위 & 표기](https://apple-sushi-c42.notion.site/14ecef5d64dd806f9a14c5f78b5f1e2a)
 
