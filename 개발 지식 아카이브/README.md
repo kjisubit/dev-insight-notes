@@ -2,8 +2,8 @@
 
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102?pvs=74)
-- [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee?pvs=4)
-- [OAuth 2.0](https://apple-sushi-c42.notion.site/URI-URL-URN-146cef5d64dd80f3a4fdd922a9795f9a?pvs=4)
+- [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee?pvs=74)
+- [OAuth 2.0](https://apple-sushi-c42.notion.site/OAuth-2-0-159cef5d64dd80fe8f95d4f8e62f5242?pvs=74)
 - [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb?pvs=4)
 - [SOLID 원칙](https://apple-sushi-c42.notion.site/SOLID-15acef5d64dd800d865ae4ab21afb5e8?pvs=74)
 - [SSH](https://apple-sushi-c42.notion.site/SSH-157cef5d64dd80b2b41bde40ffffcbdc)
