@@ -1,4 +1,4 @@
-# 개발 지식 아카이브
+# Android 개념 정리
 
 - [APK, AAB](https://apple-sushi-c42.notion.site/APK-AAB-155cef5d64dd805e9460db474050a64b)
 - [Device-independent Pixel](https://apple-sushi-c42.notion.site/Device-independent-Pixel-15dcef5d64dd80c09bbcc8255786afff)
