@@ -1,5 +1,6 @@
 # Android 디자인 패턴 및 설계
 
+- [Clean Architecture](https://apple-sushi-c42.notion.site/Clean-Architecture-188cef5d64dd804aa259d71a7540f82d)
 - [Dependency Injection](https://apple-sushi-c42.notion.site/Dependency-Injection-184cef5d64dd80c39d22f515862a7d63?pvs=74)
 - [Factory](https://apple-sushi-c42.notion.site/Factory-Pattern-186cef5d64dd80dcacdef461152825fb?pvs=73)
 - [MVC](https://apple-sushi-c42.notion.site/MVC-16ccef5d64dd808cb2d3f40401d7b4a0?pvs=74)
