@@ -1,4 +1,4 @@
-# BLE 개념 정리
+# BLE 통신 기초
 
 - [[Part 1] Bluetooth Classic vs BLE](https://apple-sushi-c42.notion.site/Part-1-Bluetooth-Classic-vs-BLE-15ecef5d64dd80de9c91cb7779e27246?pvs=74)
 - [[Part 2] Advertise & Connection](https://apple-sushi-c42.notion.site/Part-2-Advertise-vs-Connection-160cef5d64dd804ca86adfd5baa9e9d7?pvs=74)
