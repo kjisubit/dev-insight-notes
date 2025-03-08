@@ -1,6 +1,7 @@
 # Android 개념 정리
 
 - [APK, AAB](https://apple-sushi-c42.notion.site/APK-AAB-155cef5d64dd805e9460db474050a64b)
+- [App Test](https://apple-sushi-c42.notion.site/App-Test-1b0cef5d64dd8014a05eefdcbb54bd2d)
 - [Compose](https://apple-sushi-c42.notion.site/Compose-UI-Architecture-19ecef5d64dd80768bead3f20e801af5?pvs=73)
 - [Data and File Storage](https://apple-sushi-c42.notion.site/Data-and-File-Storage-18dcef5d64dd808389e8ca196b2d2712?pvs=74)
 - [Device-independent Pixel](https://apple-sushi-c42.notion.site/Device-independent-Pixel-15dcef5d64dd80c09bbcc8255786afff)
