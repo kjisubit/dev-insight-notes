@@ -1,8 +1,9 @@
 # 개발 지식 아카이브
 
 - [Context Switching](https://apple-sushi-c42.notion.site/Context-Switching-182cef5d64dd808aa088ce6d01de9836)
-- [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
+- [Given-When-Then Pattern](https://apple-sushi-c42.notion.site/Given-When-Then-Pattern-1c2cef5d64dd806090fbd738d22a2492)
 - [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102?pvs=74)
+- [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee?pvs=74)
 - [OAuth 2.0](https://apple-sushi-c42.notion.site/OAuth-2-0-159cef5d64dd80fe8f95d4f8e62f5242?pvs=74)
 - [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb?pvs=4)
