@@ -2,6 +2,7 @@
 
 - [Context Switching](https://apple-sushi-c42.notion.site/Context-Switching-182cef5d64dd808aa088ce6d01de9836)
 - [Given-When-Then Pattern](https://apple-sushi-c42.notion.site/Given-When-Then-Pattern-1c2cef5d64dd806090fbd738d22a2492)
+- [Git](https://www.notion.so/Git-1c9cef5d64dd80909bd0e94bea239fa6)
 - [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102)
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee)
