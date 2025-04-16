@@ -1,5 +1,6 @@
 # 개발 지식 아카이브
 
+- [BLE 통신 기초](https://apple-sushi-c42.notion.site/BLE-15ecef5d64dd80a596e9f24da8eb1aea)
 - [Context Switching](https://apple-sushi-c42.notion.site/Context-Switching-182cef5d64dd808aa088ce6d01de9836)
 - [Given-When-Then Pattern](https://apple-sushi-c42.notion.site/Given-When-Then-Pattern-1c2cef5d64dd806090fbd738d22a2492)
 - [Git](https://apple-sushi-c42.notion.site/Git-1c9cef5d64dd80909bd0e94bea239fa6)
