@@ -5,3 +5,5 @@
 - [Flutter vs React Native](https://apple-sushi-c42.notion.site/Flutter-vs-React-Native-1c9cef5d64dd801d9577d98e621e7bd7)
 - [Key](https://apple-sushi-c42.notion.site/Key-1cbcef5d64dd80d8a969e1f7cd800c0e)
 - [Lifecycle (Stateful Widget)](https://apple-sushi-c42.notion.site/Lifecycle-Stateful-Widget-1cacef5d64dd80f49601e5c9b7018bbd)
+- [Lifecycle (Application)](https://apple-sushi-c42.notion.site/Lifecycle-Application-1cacef5d64dd80a087cde7ebc62239d1)
+- [Platfrom Channel (MethodChannel)](https://apple-sushi-c42.notion.site/Platform-Channel-MethodChannel-1cacef5d64dd80c680f0c31689d355da)
