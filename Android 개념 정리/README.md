@@ -1,7 +1,6 @@
 # Android 개념 정리
 
 - [APK, AAB](https://apple-sushi-c42.notion.site/APK-AAB-155cef5d64dd805e9460db474050a64b)
-- [App Test](https://apple-sushi-c42.notion.site/App-Test-1b0cef5d64dd8014a05eefdcbb54bd2d)
 - [Compose](https://apple-sushi-c42.notion.site/Compose-UI-Architecture-19ecef5d64dd80768bead3f20e801af5)
 - [Data and File Storage](https://apple-sushi-c42.notion.site/Data-and-File-Storage-18dcef5d64dd808389e8ca196b2d2712)
 - [Device-independent Pixel](https://apple-sushi-c42.notion.site/Device-independent-Pixel-15dcef5d64dd80c09bbcc8255786afff)
@@ -10,5 +9,6 @@
 - [Room](https://apple-sushi-c42.notion.site/Room-19bcef5d64dd80fa804ad874a3b1a0f2)
 - [Paging](https://apple-sushi-c42.notion.site/Paging-19fcef5d64dd800daccce712623140c1)
 - [SDK 버전 설정](https://apple-sushi-c42.notion.site/SDK-152cef5d64dd8043bca4ce7b290d1142)
+- [Test](https://apple-sushi-c42.notion.site/App-Test-1b0cef5d64dd8014a05eefdcbb54bd2d)
 - [권한](https://apple-sushi-c42.notion.site/14fcef5d64dd80c1b7f0cde886835dcf)
 - [앱 서명](https://apple-sushi-c42.notion.site/150cef5d64dd80959065cd377b37c97e)
