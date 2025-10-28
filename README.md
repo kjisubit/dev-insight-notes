@@ -8,6 +8,7 @@
 - [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102)
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee)
+- [Mobile App Signing](https://apple-sushi-c42.notion.site/Play-App-Signing-294cef5d64dd803490e9dfeee2edef5a)
 - [OAuth 2.0](https://apple-sushi-c42.notion.site/OAuth-2-0-159cef5d64dd80fe8f95d4f8e62f5242)
 - [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb)
 - [Semantic Versioning](https://apple-sushi-c42.notion.site/Semantic-Versioning-23bcef5d64dd80b2b8f4d98441aef2df)
@@ -26,6 +27,5 @@
 - [인증서와 국제 표준](https://apple-sushi-c42.notion.site/296cef5d64dd804e8abef34b3612fb24)
 - [오류 검출 & 무결성 검증](https://apple-sushi-c42.notion.site/1f4cef5d64dd8099bf79e250106deb09)
 - [채널과 대역폭](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
-
 
 
