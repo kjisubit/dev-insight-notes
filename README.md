@@ -1,6 +1,7 @@
 # 개발 지식 아카이브
 
 - [BLE 통신 기초](https://apple-sushi-c42.notion.site/BLE-15ecef5d64dd80a596e9f24da8eb1aea)
+- [Channel & Bandwidth](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
 - [Context Switching](https://apple-sushi-c42.notion.site/Context-Switching-182cef5d64dd808aa088ce6d01de9836)
 - [File 입출력](https://apple-sushi-c42.notion.site/File-1eecef5d64dd8007b7d4fb35821c5fc3)
 - [Given-When-Then Pattern](https://apple-sushi-c42.notion.site/Given-When-Then-Pattern-1c2cef5d64dd806090fbd738d22a2492)
@@ -26,6 +27,4 @@
 - [암호키와 전자서명](https://apple-sushi-c42.notion.site/146cef5d64dd80b78654ecb03779485e)
 - [인증서와 국제 표준](https://apple-sushi-c42.notion.site/296cef5d64dd804e8abef34b3612fb24)
 - [오류 검출 & 무결성 검증](https://apple-sushi-c42.notion.site/1f4cef5d64dd8099bf79e250106deb09)
-- [채널과 대역폭](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
-
 
