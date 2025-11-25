@@ -14,7 +14,7 @@
 - [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb)
 - [Semantic Versioning](https://apple-sushi-c42.notion.site/Semantic-Versioning-23bcef5d64dd80b2b8f4d98441aef2df)
 - [SOLID 원칙](https://apple-sushi-c42.notion.site/SOLID-15acef5d64dd800d865ae4ab21afb5e8)
-- [SSH](https://apple-sushi-c42.notion.site/SSH-157cef5d64dd80b2b41bde40ffffcbdc)
+- [SSH Key for GitHub](https://apple-sushi-c42.notion.site/SSH-157cef5d64dd80b2b41bde40ffffcbdc)
 - [SSL & TLS](https://apple-sushi-c42.notion.site/SSL-TLS-158cef5d64dd80258a6be3dea6ff78ee)
 - [Test-Driven Development](https://apple-sushi-c42.notion.site/Test-Driven-Development-159cef5d64dd80ec8d1ae3b0a62efad3)
 - [UART 통신 기초](https://apple-sushi-c42.notion.site/UART-1edcef5d64dd80a5a1b7d545abdd8ca4)
