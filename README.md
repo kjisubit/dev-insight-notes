@@ -10,6 +10,7 @@
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee)
 - [MCP (Model Context Protocol)](https://apple-sushi-c42.notion.site/MCP-2edcef5d64dd80bd948be3d30715fa99)
+- [ML vs DL](https://apple-sushi-c42.notion.site/ML-vs-DL-2f1cef5d64dd8005b2caeb7280551c14)
 - [Mobile App Signing](https://apple-sushi-c42.notion.site/Mobile-App-Signing-29acef5d64dd800a8187c5655bdd8cd2)
 - [Neural Network Architecture](https://www.notion.so/Neural-Network-Architecture-2efcef5d64dd80aaaddbd95030892061)
 - [OAuth 2.0](https://apple-sushi-c42.notion.site/OAuth-2-0-159cef5d64dd80fe8f95d4f8e62f5242)
