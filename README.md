@@ -1,5 +1,6 @@
 # 개발 지식 아카이브
 
+- [AI 개념 정리](https://apple-sushi-c42.notion.site/AI-2f2cef5d64dd80a588bbf299ba4e5ba0?pvs=74)
 - [BLE 통신 기초](https://apple-sushi-c42.notion.site/BLE-15ecef5d64dd80a596e9f24da8eb1aea)
 - [Channel & Bandwidth](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
 - [Context Switching](https://apple-sushi-c42.notion.site/Context-Switching-182cef5d64dd808aa088ce6d01de9836)
@@ -9,10 +10,7 @@
 - [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102)
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee)
-- [MCP (Model Context Protocol)](https://apple-sushi-c42.notion.site/MCP-2edcef5d64dd80bd948be3d30715fa99)
-- [ML vs DL](https://apple-sushi-c42.notion.site/ML-vs-DL-2f1cef5d64dd8005b2caeb7280551c14)
 - [Mobile App Signing](https://apple-sushi-c42.notion.site/Mobile-App-Signing-29acef5d64dd800a8187c5655bdd8cd2)
-- [Neural Network Architecture](https://www.notion.so/Neural-Network-Architecture-2efcef5d64dd80aaaddbd95030892061)
 - [OAuth 2.0](https://apple-sushi-c42.notion.site/OAuth-2-0-159cef5d64dd80fe8f95d4f8e62f5242)
 - [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb)
 - [Semantic Versioning](https://apple-sushi-c42.notion.site/Semantic-Versioning-23bcef5d64dd80b2b8f4d98441aef2df)
