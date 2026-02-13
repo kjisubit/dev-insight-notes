@@ -25,7 +25,7 @@
 - [모바일 앱 컴파일 기법](https://apple-sushi-c42.notion.site/14acef5d64dd8086b597c3304d0c40f3)
 - [문자 인코딩](https://apple-sushi-c42.notion.site/149cef5d64dd800187b9f9d738c67ff3)
 - [비트맵 vs 벡터](https://apple-sushi-c42.notion.site/vs-146cef5d64dd8077b041f033e3378eeb)
-- [비트맵 vs 벡터](https://apple-sushi-c42.notion.site/304cef5d64dd802a9b2bc54ff5e6f98e)
+- [시간 표기법](https://apple-sushi-c42.notion.site/304cef5d64dd802a9b2bc54ff5e6f98e)
 - [암호키와 전자서명](https://apple-sushi-c42.notion.site/146cef5d64dd80b78654ecb03779485e)
 - [인증서와 국제 표준](https://apple-sushi-c42.notion.site/296cef5d64dd804e8abef34b3612fb24)
 - [오류 검출 & 무결성 검증](https://apple-sushi-c42.notion.site/1f4cef5d64dd8099bf79e250106deb09)
