@@ -10,6 +10,7 @@
 - [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102)
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee)
+- [LLM (Large Language Model)] https://apple-sushi-c42.notion.site/LLM-Large-Language-Model-30acef5d64dd80bcbc09ebb8614c7120)
 - [Mobile App Signing](https://apple-sushi-c42.notion.site/Mobile-App-Signing-29acef5d64dd800a8187c5655bdd8cd2)
 - [OAuth 2.0](https://apple-sushi-c42.notion.site/OAuth-2-0-159cef5d64dd80fe8f95d4f8e62f5242)
 - [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb)
