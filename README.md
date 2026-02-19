@@ -11,6 +11,7 @@
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee)
 - [Mobile App Signing](https://apple-sushi-c42.notion.site/Mobile-App-Signing-29acef5d64dd800a8187c5655bdd8cd2)
+- [Model Context Protocol](https://apple-sushi-c42.notion.site/MCP-Model-Context-Protocol-2edcef5d64dd80bd948be3d30715fa99)
 - [OAuth 2.0](https://apple-sushi-c42.notion.site/OAuth-2-0-159cef5d64dd80fe8f95d4f8e62f5242)
 - [REST](https://apple-sushi-c42.notion.site/REST-146cef5d64dd800ca284cf7c7b924cbb)
 - [Semantic Versioning](https://apple-sushi-c42.notion.site/Semantic-Versioning-23bcef5d64dd80b2b8f4d98441aef2df)
