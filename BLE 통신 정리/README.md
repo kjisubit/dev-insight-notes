@@ -6,3 +6,4 @@
 - [Service & Characteristic](https://apple-sushi-c42.notion.site/Service-Characteristic-162cef5d64dd801682dafac3cb58f11d)
 - [패킷 타입](https://apple-sushi-c42.notion.site/163cef5d64dd80bb9d45f0bbd4e2d93d)
 - [타이밍](https://apple-sushi-c42.notion.site/164cef5d64dd80808f17cb18b5943218)
+- [Pairing & Bonding](https://apple-sushi-c42.notion.site/Pairing-Bonding-164cef5d64dd80448490f5474cb78bd3)
