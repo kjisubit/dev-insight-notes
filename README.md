@@ -1,6 +1,6 @@
 # 개발 지식 아카이브
 
-- [AI 개념 정리](https://apple-sushi-c42.notion.site/AI-2f2cef5d64dd80a588bbf299ba4e5ba0?pvs=74)
+- [AI 기초 정리](https://github.com/kjisubit/dev-insight-notes/tree/main/AI%20%EA%B8%B0%EC%B4%88%20%EC%A0%95%EB%A6%AC)
 - [BLE 통신 기초](https://github.com/kjisubit/dev-insight-notes/tree/main/BLE%20%ED%86%B5%EC%8B%A0%20%EC%A0%95%EB%A6%AC)
 - [Channel & Bandwidth](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
 - [Context Switching](https://apple-sushi-c42.notion.site/Context-Switching-182cef5d64dd808aa088ce6d01de9836)
