@@ -4,6 +4,7 @@
 - [BLE 통신 기초](https://github.com/kjisubit/dev-insight-notes/tree/main/BLE%20%ED%86%B5%EC%8B%A0%20%EC%A0%95%EB%A6%AC)
 - [Channel & Bandwidth](https://apple-sushi-c42.notion.site/14acef5d64dd80489061e5a55e9d9d45)
 - [Context Switching](https://apple-sushi-c42.notion.site/Context-Switching-182cef5d64dd808aa088ce6d01de9836)
+- [CPU](https://apple-sushi-c42.notion.site/CPU-3d6cef5d64dd80e8b202c599a4195167)
 - [File 입출력](https://apple-sushi-c42.notion.site/File-1eecef5d64dd8007b7d4fb35821c5fc3)
 - [Given-When-Then Pattern](https://apple-sushi-c42.notion.site/Given-When-Then-Pattern-1c2cef5d64dd806090fbd738d22a2492)
 - [Git](https://apple-sushi-c42.notion.site/Git-1c9cef5d64dd80909bd0e94bea239fa6)
