@@ -9,6 +9,7 @@
 - [Given-When-Then Pattern](https://apple-sushi-c42.notion.site/Given-When-Then-Pattern-1c2cef5d64dd806090fbd738d22a2492)
 - [Git](https://apple-sushi-c42.notion.site/Git-1c9cef5d64dd80909bd0e94bea239fa6)
 - [HMAC](https://apple-sushi-c42.notion.site/HMAC-151cef5d64dd80bbb009d29b0e522102)
+- [HTTP 통신 핸들링](https://apple-sushi-c42.notion.site/HTTP-3eacef5d64dd8074838acd42fc080004)
 - [IP address](https://apple-sushi-c42.notion.site/IP-156cef5d64dd80418362c036dd524345)
 - [JSON, GSON](https://apple-sushi-c42.notion.site/JSON-GSON-146cef5d64dd8094b239f60f5e9edcee)
 - [Local Proxy 구축 (모바일 <-> 내부망)](https://apple-sushi-c42.notion.site/Mac-Proxy-31acef5d64dd80429bdecf9034ef5d3e)
@@ -31,4 +32,3 @@
 - [암호키와 전자서명](https://apple-sushi-c42.notion.site/146cef5d64dd80b78654ecb03779485e)
 - [인증서와 국제 표준](https://apple-sushi-c42.notion.site/296cef5d64dd804e8abef34b3612fb24)
 - [오류 검출 & 무결성 검증](https://apple-sushi-c42.notion.site/1f4cef5d64dd8099bf79e250106deb09)
-
